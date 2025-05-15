@@ -7,6 +7,7 @@ Luis Felipe Ortiz Patiño
 Soy un desarrollador de software full stack
 
 🌟 ¡Estoy siempre aprendiendo y explorando nuevas tecnologías para crear soluciones innovadoras! 🌟
+<br>
 Conecta conmigo en GitHub o LinkedIn para colaborar en proyectos emocionantes.
 🖥️ Mis Lenguajes de Programación
 

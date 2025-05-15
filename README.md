@@ -3,11 +3,6 @@ Luis Felipe Ortiz Patiño
 
 ![Morgana](https://pa1.aminoapps.com/6835/aeb202851e2f7c58775e57bed16af7345366b56c_hq.gif)
 
-
-<div style="text-align: center;">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fsmtp5%2Fpage%2Fitem%2Fmorgana%2FWlRm_5JFVI71lQrMBxg30Xjjm8ml4zLodn&psig=AOvVaw0dqeLGBLiD9tFtUnlHkpkw&ust=1747436936712000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCo7YDMpo0DFQAAAAAdAAAAABAW" alt="User" width="100" />
-</div>
-
 Soy un desarrollador de software full stack
 
 🌟 ¡Estoy siempre aprendiendo y explorando nuevas tecnologías para crear soluciones innovadoras! 🌟</br>

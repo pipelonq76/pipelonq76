@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center;">
+<div style="text-align: center;">
   <img src="https://avatars.githubusercontent.com/u/83232691?v=4" alt="User" width="100" />
 </div>
 Luis Felipe Ortiz Patiño

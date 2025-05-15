@@ -1,13 +1,14 @@
+Luis Felipe Ortiz Patiño
+
 <div style="text-align: center;">
   <img src="https://avatars.githubusercontent.com/u/83232691?v=4" alt="User" width="100" />
 </div>
-Luis Felipe Ortiz Patiño
 
 Soy un desarrollador de software full stack
 
-¡Estoy siempre aprendiendo y explorando nuevas tecnologías para crear soluciones innovadoras! 🌟
+🌟 ¡Estoy siempre aprendiendo y explorando nuevas tecnologías para crear soluciones innovadoras! 🌟
 Conecta conmigo en GitHub o LinkedIn para colaborar en proyectos emocionantes.
-🖥️ Lenguajes de Programación
+🖥️ Mis Lenguajes de Programación
 markdown
 CopiarEditar
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)

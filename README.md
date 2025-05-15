@@ -106,14 +106,11 @@ Productividad y documentación
 Notion – documentación, tareas, bases de datos ligeras
 
 
-
-
 Gestión de Proyectos / Tareas
 Jira – gestión de tareas para desarrollo ágil
 
 
 Trello – tablero tipo Kanban (de Atlassian)
-
 
 
 
@@ -161,18 +158,12 @@ CopiarEditar
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
 No Relacionales
 markdown
 CopiarEditar
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![CouchDB](https://img.shields.io/badge/CouchDB-E42528?style=flat&logo=apache-couchdb&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Apache_Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
 
 
 ⚙️ Herramientas de Gestión / Productividad
@@ -180,17 +171,7 @@ markdown
 CopiarEditar
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
-![Coda](https://img.shields.io/badge/Coda-6200EE?style=flat&logo=coda&logoColor=white)
-![Evernote](https://img.shields.io/badge/Evernote-00A82D?style=flat&logo=evernote&logoColor=white)
-![OneNote](https://img.shields.io/badge/OneNote-7719AA?style=flat&logo=onenote&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white)
-![Asana](https://img.shields.io/badge/Asana-273347?style=flat&logo=asana&logoColor=F06A6A)
-![Monday](https://img.shields.io/badge/Monday.com-000?style=flat&logo=monday.com&logoColor=white)
-![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat&logo=linear&logoColor=white)
-![Redmine](https://img.shields.io/badge/Redmine-B32024?style=flat&logo=redmine&logoColor=white)
-![Taiga](https://img.shields.io/badge/Taiga-77CC77?style=flat&logo=taiga&logoColor=white)
 
 
 ![Pinky y Cerebro](https://img.chilango.com/2020/04/mejores-momentos-de-pinky-y-cerebro.jpg)

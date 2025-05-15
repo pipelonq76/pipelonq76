@@ -1,6 +1,4 @@
-<div style="width: 100px;">
-  ![User](https://avatars.githubusercontent.com/u/83232691?v=4)
-</div>
+<img src="https://avatars.githubusercontent.com/u/83232691?v=4" alt="User" width="100" />
 Luis Felipe Ortiz Patiño
 
 Soy un desarrollador de software full stack

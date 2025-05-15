@@ -174,7 +174,7 @@ CopiarEditar
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 
 
-![Pinky y Cerebro](https://img.chilango.com/2020/04/mejores-momentos-de-pinky-y-cerebro.jpg)
+![Bongo cat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fhuxianyin%2Fbongocat-mac-keyboard&psig=AOvVaw1VpRZkRAvDc2QxkPRMLhoQ&ust=1747432505604000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjZ98C7po0DFQAAAAAdAAAAABAL)
 
 
 

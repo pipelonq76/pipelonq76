@@ -84,7 +84,6 @@ Como desarrollador de software, titulado como técnico en desarrollo de software
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-000000?style=flat&logo=code&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -98,11 +97,6 @@ Como desarrollador de software, titulado como técnico en desarrollo de software
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-### Ciencia de Datos e Inteligencia Artificial
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 ### Herramientas de Desarrollo
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -134,9 +128,6 @@ Como desarrollador de software, titulado como técnico en desarrollo de software
 
 ## 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-Mobile%20Framework-02569B?style=flat&logo=flutter&logoColor=white)
-
-## 🖥️ GUI / Mobile Framework (Python)
-![Kivy](https://img.shields.io/badge/Kivy-GUI%2FMobile%20Framework-00B140?style=flat&logo=python&logoColor=white)
 
 
 ## 📈 GitHub Stats

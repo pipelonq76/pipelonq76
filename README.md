@@ -64,7 +64,7 @@ No Relacionales
 
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-LillianaU-181717?logo=github&style=flat-square)](https://github.com/LillianaU)
+[![GitHub](https://img.shields.io/badge/GitHub-LillianaU-181717?logo=github&style=flat-square)](https://github.com/pipelonq76)
 
 
 ---

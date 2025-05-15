@@ -1,7 +1,7 @@
 Luis Felipe Ortiz Patiño
 
 <div style="text-align: center;">
-  <img src="https://avatars.githubusercontent.com/u/83232691?v=4" alt="User" width="100" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fsmtp5%2Fpage%2Fitem%2Fmorgana%2FWlRm_5JFVI71lQrMBxg30Xjjm8ml4zLodn&psig=AOvVaw0dqeLGBLiD9tFtUnlHkpkw&ust=1747436936712000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCo7YDMpo0DFQAAAAAdAAAAABAW" alt="User" width="100" />
 </div>
 
 Soy un desarrollador de software full stack

@@ -7,7 +7,7 @@ Luis Felipe Ortiz Patiño
 Soy un desarrollador de software full stack
 
 🌟 ¡Estoy siempre aprendiendo y explorando nuevas tecnologías para crear soluciones innovadoras! 🌟</br>
-Conecta conmigo en GitHub o LinkedIn para colaborar en proyectos emocionantes.
+Conecta conmigo en GitHub o LinkedIn para colaborar en proyectos emocionantes.</br>
 🖥️ Mis Lenguajes de Programación
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -31,7 +31,6 @@ Frontend
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 Backend
-markdown
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
@@ -42,8 +41,6 @@ markdown
 
 💾 Bases de Datos
 Relacionales
-markdown
-CopiarEditar
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
@@ -51,15 +48,11 @@ CopiarEditar
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 No Relacionales
-markdown
-CopiarEditar
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 
 ⚙️ Herramientas de Gestión / Productividad
-markdown
-CopiarEditar
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
@@ -72,7 +65,7 @@ CopiarEditar
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-LillianaU-181717?logo=github&style=flat-square)](https://github.com/LillianaU)
-[![YouTube](https://img.shields.io/badge/YouTube-Lilliana%20Uribe%20G-FF0000?logo=youtube&style=flat-square)](https://www.youtube.com/@lillianauribeg7317)
+
 
 ---
 

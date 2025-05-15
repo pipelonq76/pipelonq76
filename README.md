@@ -68,8 +68,7 @@ No Relacionales
 
 ## 🌟 Sobre mí
 
-✨ ¡Hola! Soy **Lilliana Uribe González**, apasionada por el **desarrollo fullstack**, la **educación tecnológica** y la creación de soluciones que conectan el aprendizaje con la innovación.  
-💻 Como **Ingeniera de Sistemas**, aplico buenas prácticas de **programación orientada a objetos** y promuevo el **código limpio y estructurado**.
+Como desarrollador de software, titulado como técnico en desarrollo de software y actualmente cursando mi técnica, soy Luis Felipe Ortiz Patiño. Mi pasión radica en concebir sistemas complejos que no solo resuelvan problemas, sino que también sean seguros, resilientes y escalables a largo plazo.
 
 ---
 
@@ -117,11 +116,8 @@ No Relacionales
 - 🌐 Desarrollo Web Fullstack (Frontend + Backend)
 - ⚙️ Programación Orientada a Objetos (POO)
 - 🧹 Código limpio y estructurado
-- 🧮 Ciencia de Datos con Python, Pandas y NumPy
-- 🧠 Procesamiento y Reconocimiento de Imágenes con OpenCV
 - 📊 Construcción de APIs RESTful
 - 💾 Gestión de Bases de Datos Relacionales y No Relacionales
-- 📚 Creación de contenido educativo en programación
 - 🎯 Aplicaciones responsivas y optimizadas
 
 ---

@@ -154,8 +154,7 @@ No Relacionales
 
 ## 📫 ¡Conectemos!
 
-- 🔗 [YouTube: Lilliana Uribe G](https://www.youtube.com/@lillianauribeg7317)
-- 🔗 [GitHub: LillianaU](https://github.com/LillianaU)
+- 🔗 [GitHub: pipelonq76](https://github.com/pipelonq76)
 
 ---
 

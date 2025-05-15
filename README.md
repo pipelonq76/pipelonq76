@@ -28,16 +28,6 @@ C#
 PHP
 
 
-Go
-
-
-Ruby
-
-
-Rust
-
-
-
 📚 Frameworks y Bibliotecas
 Frontend
 React (JavaScript/TypeScript)
@@ -49,7 +39,6 @@ Vue.js
 Angular
 
 
-Svelte
 
 
 Next.js (SSR y React)
@@ -71,11 +60,6 @@ Express.js (Node.js)
 NestJS (Node.js + TypeScript)
 
 
-Django (Python)
-
-
-Flask (Python)
-
 
 Spring Boot (Java)
 
@@ -83,22 +67,12 @@ Spring Boot (Java)
 Laravel (PHP)
 
 
-Ruby on Rails (Ruby)
-
-
 ASP.NET (C#)
-
-
-Fiber (Go)
-
-
-FastAPI (Python)
 
 
 
 💾 Bases de Datos
 Relacionales (SQL)
-PostgreSQL
 
 
 MySQL
@@ -107,13 +81,8 @@ MySQL
 MariaDB
 
 
-SQLite
 
 
-Microsoft SQL Server
-
-
-Oracle DB
 
 
 No Relacionales (NoSQL)
@@ -123,61 +92,20 @@ MongoDB
 Firebase Realtime Database
 
 
-CouchDB
-
-
-Cassandra
-
-
-Redis (clave-valor, usado también como caché)
-
-
-DynamoDB (Amazon)
-
-
-Neo4j (base de datos de grafos)
-
 
 
 ⚙️ ORMs / Query Builders
 Sequelize (Node.js)
 
 
-TypeORM (Node.js + TypeScript)
-
-
-Prisma (moderno, Node.js/TypeScript)
-
-
-SQLAlchemy (Python)
-
-
-Hibernate (Java)
-
-
-Eloquent (Laravel - PHP)
-
-
-ActiveRecord (Ruby on Rails)
-
 
 
 🛠️ Herramientas de Gestión / Productividad
-Similares a Notion, Jira, etc.:
 Productividad y documentación
+
 Notion – documentación, tareas, bases de datos ligeras
 
 
-Confluence – documentación empresarial (integración con Jira)
-
-
-Coda – alternativa a Notion
-
-
-Evernote / OneNote
-
-
-Slab – para documentación interna
 
 
 Gestión de Proyectos / Tareas
@@ -187,23 +115,9 @@ Jira – gestión de tareas para desarrollo ágil
 Trello – tablero tipo Kanban (de Atlassian)
 
 
-ClickUp
 
 
-Asana
 
-
-Monday.com
-
-
-Linear
-
-
-Redmine – gestión de proyectos open source
-
-
-Taiga – herramienta ágil open source
-linkt 
 
 🖥️ Lenguajes de Programación
 markdown
@@ -216,38 +130,26 @@ CopiarEditar
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 
 
 📚 Frameworks y Bibliotecas
 Frontend
 markdown
-CopiarEditar
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 
 Backend
 markdown
-CopiarEditar
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=flat&logo=go&logoColor=white)
 
 
 💾 Bases de Datos

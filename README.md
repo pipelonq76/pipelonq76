@@ -1,5 +1,7 @@
-<img src="https://avatars.githubusercontent.com/u/83232691?v=4" alt="User" width="100" />
 Luis Felipe Ortiz Patiño
+<div style="display:flex">
+<img style="justify-content:center" src="https://avatars.githubusercontent.com/u/83232691?v=4" alt="User"  width="100" />
+</div>
 
 Soy un desarrollador de software full stack
 

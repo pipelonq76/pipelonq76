@@ -1,121 +1,181 @@
- 🖥️ Lenguajes de Programación
+🖥️ Mi Stack Tecnológico
+
+¡Bienvenido/a a mi perfil! Aquí encontrarás un resumen de las tecnologías, frameworks y herramientas que domino para desarrollar proyectos frontend, backend y más. 🚀
+
+
+
+🌐 Lenguajes de Programación
+
 Frontend
-HTML
 
 
-CSS
 
 
-JavaScript
+
+🌟 HTML
 
 
-TypeScript
 
+🎨 CSS
+
+
+
+⚡️ JavaScript
+
+
+
+📝 TypeScript
 
 Backend
-JavaScript (Node.js)
 
 
-Python
 
 
-Java
+
+⚡️ JavaScript (Node.js)
 
 
-C#
+
+🐍 Python
 
 
-PHP
+
+☕ Java
+
+
+
+🔷 C#
+
+
+
+🐘 PHP
+
 
 
 📚 Frameworks y Bibliotecas
+
 Frontend
-React (JavaScript/TypeScript)
-
-
-Vue.js
-
-
-Angular
 
 
 
 
-Next.js (SSR y React)
+
+⚛️ React (JavaScript/TypeScript)
 
 
-Tailwind CSS (estilos)
+
+🌈 Vue.js
 
 
-Bootstrap
+
+🅰️ Angular
 
 
-jQuery (menos usado hoy en día)
 
+🚀 Next.js (SSR y React)
+
+
+
+💅 Tailwind CSS (estilos)
+
+
+
+📱 Bootstrap
+
+
+
+🗄️ jQuery (menos usado hoy en día)
 
 Backend
-Express.js (Node.js)
-
-
-NestJS (Node.js + TypeScript)
 
 
 
-Spring Boot (Java)
 
 
-Laravel (PHP)
+🚄 Express.js (Node.js)
 
 
-ASP.NET (C#)
+
+🦁 NestJS (Node.js + TypeScript)
+
+
+
+🌱 Spring Boot (Java)
+
+
+
+🐘 Laravel (PHP)
+
+
+
+🔷 ASP.NET (C#)
 
 
 
 💾 Bases de Datos
+
 Relacionales (SQL)
 
 
-MySQL
-
-
-MariaDB
 
 
 
+🗄️ MySQL
 
 
+
+🗃️ MariaDB
 
 No Relacionales (NoSQL)
-MongoDB
 
 
-Firebase Realtime Database
 
+
+
+🍃 MongoDB
+
+
+
+🔥 Firebase Realtime Database
 
 
 
 ⚙️ ORMs / Query Builders
-Sequelize (Node.js)
 
 
 
 
-🛠️ Herramientas de Gestión / Productividad
-Productividad y documentación
 
-Notion – documentación, tareas, bases de datos ligeras
+🔗 Sequelize (Node.js)
 
+
+
+🛠️ Herramientas de Gestión y Productividad
+
+Productividad y Documentación
+
+
+
+
+
+📋 Notion: Documentación, tareas y bases de datos ligeras
 
 Gestión de Proyectos / Tareas
-Jira – gestión de tareas para desarrollo ágil
-
-
-Trello – tablero tipo Kanban (de Atlassian)
 
 
 
 
 
+📊 Jira: Gestión de tareas para desarrollo ágil
+
+
+
+🗂️ Trello: Tablero tipo Kanban (de Atlassian)
+
+
+
+¡Estoy siempre aprendiendo y explorando nuevas tecnologías para crear soluciones innovadoras! 🌟
+Conecta conmigo en GitHub o LinkedIn para colaborar en proyectos emocionantes.
 🖥️ Lenguajes de Programación
 markdown
 CopiarEditar

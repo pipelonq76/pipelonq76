@@ -174,7 +174,7 @@ CopiarEditar
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 
 
-![Bongo cat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fhuxianyin%2Fbongocat-mac-keyboard&psig=AOvVaw1VpRZkRAvDc2QxkPRMLhoQ&ust=1747432505604000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjZ98C7po0DFQAAAAAdAAAAABAL)
+![Bongo cat]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fhuxianyin%2Fbongocat-mac-keyboard&psig=AOvVaw1VpRZkRAvDc2QxkPRMLhoQ&ust=1747432505604000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjZ98C7po0DFQAAAAAdAAAAABAL](https://user-images.githubusercontent.com/34026599/236195750-4183df42-ca68-44fd-b094-e3e0a2844f72.gif))
 
 
 

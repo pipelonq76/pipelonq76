@@ -1,4 +1,4 @@
-
+Soy un desarrollador de software full stack
 
 ¡Estoy siempre aprendiendo y explorando nuevas tecnologías para crear soluciones innovadoras! 🌟
 Conecta conmigo en GitHub o LinkedIn para colaborar en proyectos emocionantes.
@@ -64,9 +64,7 @@ CopiarEditar
 
 
 
-
-
-# 👩‍💻 Luis Felipe Ortiz Patiño
+# https://avatars.githubusercontent.com/u/83232691?v=4 Luis Felipe Ortiz Patiño
 
 [![GitHub](https://img.shields.io/badge/GitHub-LillianaU-181717?logo=github&style=flat-square)](https://github.com/LillianaU)
 [![YouTube](https://img.shields.io/badge/YouTube-Lilliana%20Uribe%20G-FF0000?logo=youtube&style=flat-square)](https://www.youtube.com/@lillianauribeg7317)

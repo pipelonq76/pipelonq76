@@ -64,7 +64,7 @@ No Relacionales
 
 
 
-[![GitHub][(https://github.com/pipelonq76)](https://github.com/pipelonq76)
+[![GitHub](https://github.com/pipelonq76)](https://github.com/pipelonq76)
 
 
 ---
